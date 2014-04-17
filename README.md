@@ -1,7 +1,7 @@
 text-miner
 ==========
 
-Simple text mining code that can be used to perform basic content analysis.
+Simple text mining code that can be used to perform basic content analysis. (Originally written years ago.)
 
 
 **Example 1:** Top Keywords as a comma separated string
